@@ -1,0 +1,12 @@
+a=5
+a**=10
+print(a)
+b=100
+b//=5
+print(b)
+b=100
+b/=5
+print(b)
+c=10
+c&=10
+print(c)
